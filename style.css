@@ -1,0 +1,51 @@
+/*
+Theme Name: Hebert
+Theme URI: hebertrio.com
+Author: Allan Hebert
+Description: Esse é um tema muito legal e bacana, foi construido com muito amor e carinho.
+Version: 1.0
+*/
+
+body{
+	font-family:verdana;
+}
+
+#e{
+	clear:both;
+}
+
+#geral{
+	width:900px;
+	margin:0 auto;
+}
+
+#conteudo{
+	width:680px;
+	float:left;
+}
+
+#sidebar{
+	width:200px;
+	float:right;
+	border:1px solid black;
+}
+
+#sidebar ul li{
+	list-style: none;
+	margin:0px;
+}
+
+#sidebar ul{
+	padding:0px;
+}
+
+#header{
+	border:1px solid black;
+}
+
+#footer{
+	width:900px;
+	height:120px;
+	background-color:#FF0000;
+	padding: 10px
+}
