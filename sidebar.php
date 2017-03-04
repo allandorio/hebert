@@ -4,7 +4,7 @@
 		<?php 
 			$opc = array(
 				"order"=>"ASC",
-				"title_li"=>"<h4>Links Quentes</h4>"
+				"title_li"=>"<strong>Links Quentes</strong>"
 			);
 			wp_list_categories($opc);
 		?>
